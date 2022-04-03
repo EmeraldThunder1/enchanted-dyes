@@ -1,0 +1,13 @@
+{
+    "criteria": {
+        "Unlocked": {
+            "trigger": "minecraft:recipe_unlocked",
+            "conditions": {
+                "recipe": "enchanted_dyes:lime_diamond_axe_1"
+            }
+        }
+    },
+    "rewards": {
+        "function": "enchanted_dyes:lime_diamond_axe_1"
+    }
+}

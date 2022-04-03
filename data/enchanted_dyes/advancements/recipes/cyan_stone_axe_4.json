@@ -1,0 +1,13 @@
+{
+    "criteria": {
+        "Unlocked": {
+            "trigger": "minecraft:recipe_unlocked",
+            "conditions": {
+                "recipe": "enchanted_dyes:cyan_stone_axe_4"
+            }
+        }
+    },
+    "rewards": {
+        "function": "enchanted_dyes:cyan_stone_axe_4"
+    }
+}

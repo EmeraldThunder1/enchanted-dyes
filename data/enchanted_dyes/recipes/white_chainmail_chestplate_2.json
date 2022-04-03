@@ -1,0 +1,19 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "minecraft:chainmail_chestplate"
+        },
+        
+        {
+            "item": "minecraft:white_dye"
+        },
+        
+        {
+            "item": "minecraft:white_dye"
+        }
+    ],
+    "result": {
+        "item": "minecraft:knowledge_book"
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "minecraft:diamond_axe"
+        },
+        
+        {
+            "item": "minecraft:gray_dye"
+        },
+        
+        {
+            "item": "minecraft:gray_dye"
+        },
+        
+        {
+            "item": "minecraft:gray_dye"
+        },
+        
+        {
+            "item": "minecraft:gray_dye"
+        },
+        
+        {
+            "item": "minecraft:gray_dye"
+        }
+    ],
+    "result": {
+        "item": "minecraft:knowledge_book"
+    }
+}

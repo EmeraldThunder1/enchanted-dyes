@@ -1,0 +1,31 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "minecraft:book"
+        },
+        
+        {
+            "item": "minecraft:brown_dye"
+        },
+        
+        {
+            "item": "minecraft:brown_dye"
+        },
+        
+        {
+            "item": "minecraft:brown_dye"
+        },
+        
+        {
+            "item": "minecraft:brown_dye"
+        },
+        
+        {
+            "item": "minecraft:brown_dye"
+        }
+    ],
+    "result": {
+        "item": "minecraft:knowledge_book"
+    }
+}

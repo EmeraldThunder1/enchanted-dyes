@@ -1,0 +1,13 @@
+{
+    "criteria": {
+        "Unlocked": {
+            "trigger": "minecraft:recipe_unlocked",
+            "conditions": {
+                "recipe": "enchanted_dyes:gray_iron_sword_4"
+            }
+        }
+    },
+    "rewards": {
+        "function": "enchanted_dyes:gray_iron_sword_4"
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "criteria": {
+        "Unlocked": {
+            "trigger": "minecraft:recipe_unlocked",
+            "conditions": {
+                "recipe": "enchanted_dyes:black_diamond_chestplate_2"
+            }
+        }
+    },
+    "rewards": {
+        "function": "enchanted_dyes:black_diamond_chestplate_2"
+    }
+}

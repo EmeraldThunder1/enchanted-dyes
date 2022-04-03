@@ -1,0 +1,13 @@
+{
+    "criteria": {
+        "Unlocked": {
+            "trigger": "minecraft:recipe_unlocked",
+            "conditions": {
+                "recipe": "enchanted_dyes:black_iron_helmet_3"
+            }
+        }
+    },
+    "rewards": {
+        "function": "enchanted_dyes:black_iron_helmet_3"
+    }
+}

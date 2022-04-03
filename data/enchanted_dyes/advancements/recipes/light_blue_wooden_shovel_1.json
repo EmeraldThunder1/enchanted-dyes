@@ -1,0 +1,13 @@
+{
+    "criteria": {
+        "Unlocked": {
+            "trigger": "minecraft:recipe_unlocked",
+            "conditions": {
+                "recipe": "enchanted_dyes:light_blue_wooden_shovel_1"
+            }
+        }
+    },
+    "rewards": {
+        "function": "enchanted_dyes:light_blue_wooden_shovel_1"
+    }
+}

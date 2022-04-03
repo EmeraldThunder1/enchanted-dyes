@@ -1,0 +1,13 @@
+{
+    "criteria": {
+        "Unlocked": {
+            "trigger": "minecraft:recipe_unlocked",
+            "conditions": {
+                "recipe": "enchanted_dyes:green_leather_leggings_2"
+            }
+        }
+    },
+    "rewards": {
+        "function": "enchanted_dyes:green_leather_leggings_2"
+    }
+}

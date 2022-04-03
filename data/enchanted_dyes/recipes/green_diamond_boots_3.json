@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "minecraft:diamond_boots"
+        },
+        
+        {
+            "item": "minecraft:green_dye"
+        },
+        
+        {
+            "item": "minecraft:green_dye"
+        },
+        
+        {
+            "item": "minecraft:green_dye"
+        }
+    ],
+    "result": {
+        "item": "minecraft:knowledge_book"
+    }
+}

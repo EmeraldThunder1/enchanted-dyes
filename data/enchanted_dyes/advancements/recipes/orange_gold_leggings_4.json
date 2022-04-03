@@ -1,0 +1,13 @@
+{
+    "criteria": {
+        "Unlocked": {
+            "trigger": "minecraft:recipe_unlocked",
+            "conditions": {
+                "recipe": "enchanted_dyes:orange_gold_leggings_4"
+            }
+        }
+    },
+    "rewards": {
+        "function": "enchanted_dyes:orange_gold_leggings_4"
+    }
+}

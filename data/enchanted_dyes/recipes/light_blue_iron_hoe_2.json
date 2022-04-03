@@ -1,0 +1,19 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "minecraft:iron_hoe"
+        },
+        
+        {
+            "item": "minecraft:light_blue_dye"
+        },
+        
+        {
+            "item": "minecraft:light_blue_dye"
+        }
+    ],
+    "result": {
+        "item": "minecraft:knowledge_book"
+    }
+}
