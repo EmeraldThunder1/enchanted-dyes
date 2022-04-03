@@ -3,7 +3,7 @@
 This minecraft datapack allows you to enchant items using dyes. A full list of which dyes are for which enchantments are below. To enchant the item simply put it in a crafting grid with the correct dyes. To increase the level of the enchantment you must add another of the same dye into another slot of the crafting grid. To make sure that this isn't too OP you must combine enchantments on an anvil rather than just crafting them on.
 
 ## For creators
-If you are a creator and would like to use this for a video all you have to do is credit me in the description. I would also appreciate it if you could send me a link to the video.
+If you are a creator and would like to use this for a video all you have to do is credit me in the description and link to the repo. I would also appreciate it if you could send me a link to the video.
 
 ## Installation instructions
 
