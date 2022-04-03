@@ -14,4 +14,4 @@ Create a minecraft world and then go into the world folder. You should find a fo
 
 Alternatively, if you do not have git installed you can download the repo and manually paste it into your datapacks folder.
 
-![The various dyes and enchantments](https://assets.scratch.mit.edu/get_image/.%2E/069ba4ddcef9fb5807a39486362f30f4.png)
+![The various dyes and enchantments](https://user-images.githubusercontent.com/79803873/161442971-7f3fb7b5-4ff8-4d6f-86e9-81502e28a134.png)
