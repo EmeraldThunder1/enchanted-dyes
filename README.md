@@ -13,3 +13,5 @@ Create a minecraft world and then go into the world folder. You should find a fo
 ```git clone https://github.com/EmeraldThunder1/enchanted-dyes```
 
 Alternatively, if you do not have git installed you can download the repo and manually paste it into your datapacks folder.
+
+![The various dyes and enchantments](https://assets.scratch.mit.edu/get_image/.%2E/069ba4ddcef9fb5807a39486362f30f4.png)
